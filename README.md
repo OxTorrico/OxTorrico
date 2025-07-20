@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OxTorrico
-- 👀 I’m interested in Blockchain technology, applied to AI/ML, AR/VR and overall software development.
-- 🌱 I’m currently learning Python, SQL, Data Analytics & Project Management.
-- 💞️ I’m looking to collaborate on software development projects, AI/ML and Blockchain.
+- 👀 Data, Operations and Project Management enthusiast.
+- 🌱 I’m currently creating a new venture named **Horned Owl Company**, where we develop applications focused on ensuring the authenticity of products, our main focus is on the Agave Destillates Industry.
 - 📫 How to reach me ... please email me to: **luish.torrico96@gmail.com**
 
 <!---
